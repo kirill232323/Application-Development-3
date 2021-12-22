@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="button">Начать</string>
+    <string name="textView">Результат:</string>
+    <array name="movies">
+        <item>Рождественская история</item>
+        <item>Мост в Терабитию</item>
+        <item>День сурка</item>
+        <item>Жизнь Пи</item>
+        <item>Мой парень — ангел</item>
+        <item>Алиса в стране чудес</item>
+        <item>Поймай меня, если сможешь</item>
+        <item>Подарок на Рождество</item>
+    </array>
+</resources>
